@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 import json
 
-tracks = tracks = pd.read_csv('zapocet/data/tracks.csv', index_col=0, header=[0, 1])
-echonest = pd.read_csv('zapocet/data/echonest.csv', index_col=0, header=[0, 1, 2])
-genres = pd.read_csv('zapocet/data/genres.csv', index_col=0).sort_values(by=['parent'], ascending=True)
+tracks = tracks = pd.read_csv('data/tracks.csv', index_col=0, header=[0, 1])
+echonest = pd.read_csv('data/echonest.csv', index_col=0, header=[0, 1, 2])
+genres = pd.read_csv('data/genres.csv', index_col=0).sort_values(by=['parent'], ascending=True)
 
 # Create song data:
     # song_tempo  = echonest[('audio_features', 'tempo')].copy()
@@ -40,6 +40,7 @@ def process_node(idx, parent_idx):
     children = [child for child in children if child != None]
 
     track_count, bpm_sum = get_genre_data(id)
+    print(f'genre data for {name}: count={track_count}; bpm={bpm_sum}')
     if track_count > 0 and len(children) > 0:
         children.append(
             {
@@ -56,11 +57,20 @@ def process_node(idx, parent_idx):
 
     children_count = sum(child['track_count_agg'] for child in children)
     children_bpm   = sum(child['bpm_sum_agg'] for child in children)
-    
 
-   
+    if len(children) == 0 and :
+        return {
+            'name': name,
+            'id' : id,
+            'parentId': parent_idx,
+            'children': children,
+            'track_count': track_count,
+            'track_count_agg': track_count,
+            'bpm_sum': bpm_sum,
+            'bpm_sum_agg': bpm_sum
+        }
 
-    if track_count + children_count > 0:
+    elif track_count + children_count > 0:
         return {
             'name': name,
             'id' : id,
@@ -72,7 +82,8 @@ def process_node(idx, parent_idx):
             'bpm_sum_agg': children_bpm
         }
 
-    return None
+    else:
+        return None
 
 
 if __name__ == '__main__':

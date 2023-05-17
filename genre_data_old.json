@@ -8,16 +8,6 @@
             "parentId": 0,
             "children": [
                 {
-                    "name": "Ambient",
-                    "id": 107,
-                    "parentId": 1235,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Soundtrack",
                     "id": 18,
                     "parentId": 1235,
@@ -34,7 +24,7 @@
                         },
                         {
                             "name": "Soundtrack",
-                            "id": 18000,
+                            "id": 1800,
                             "parentId": 18,
                             "children": [],
                             "track_count": 217,
@@ -43,9 +33,9 @@
                             "bpm_sum_agg": 25292.525
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 217,
                     "track_count_agg": 221,
-                    "bpm_sum": 0,
+                    "bpm_sum": 25292.525,
                     "bpm_sum_agg": 25834.877
                 },
                 {
@@ -60,7 +50,7 @@
                 },
                 {
                     "name": "Instrumental",
-                    "id": 1235000,
+                    "id": 123500,
                     "parentId": 1235,
                     "children": [],
                     "track_count": 98,
@@ -69,9 +59,9 @@
                     "bpm_sum_agg": 11647.618999999999
                 }
             ],
-            "track_count": 0,
+            "track_count": 98,
             "track_count_agg": 348,
-            "bpm_sum": 0,
+            "bpm_sum": 11647.618999999999,
             "bpm_sum_agg": 41107.448000000004
         },
         {
@@ -79,16 +69,6 @@
             "id": 21,
             "parentId": 0,
             "children": [
-                {
-                    "name": "Abstract Hip-Hop",
-                    "id": 580,
-                    "parentId": 21,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
                 {
                     "name": "Alternative Hip-Hop",
                     "id": 100,
@@ -140,18 +120,8 @@
                     "bpm_sum_agg": 3336.6699999999996
                 },
                 {
-                    "name": "Nerdcore",
-                    "id": 83,
-                    "parentId": 21,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Hip-Hop",
-                    "id": 21000,
+                    "id": 2100,
                     "parentId": 21,
                     "children": [],
                     "track_count": 1351,
@@ -160,9 +130,9 @@
                     "bpm_sum_agg": 161346.28100000002
                 }
             ],
-            "track_count": 0,
+            "track_count": 1351,
             "track_count_agg": 1666,
-            "bpm_sum": 0,
+            "bpm_sum": 161346.28100000002,
             "bpm_sum_agg": 199229.695
         },
         {
@@ -171,40 +141,10 @@
             "parentId": 0,
             "children": [
                 {
-                    "name": "Spoken Weird",
-                    "id": 138,
-                    "parentId": 20,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
-                    "name": "Comedy",
-                    "id": 7,
-                    "parentId": 20,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Radio",
                     "id": 65,
                     "parentId": 20,
                     "children": [
-                        {
-                            "name": "Talk Radio",
-                            "id": 189,
-                            "parentId": 65,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
                         {
                             "name": "Interview",
                             "id": 166,
@@ -214,42 +154,12 @@
                             "track_count_agg": 12,
                             "bpm_sum": 1491.197,
                             "bpm_sum_agg": 1491.197
-                        },
-                        {
-                            "name": "Radio Art",
-                            "id": 43,
-                            "parentId": 65,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
                         }
                     ],
                     "track_count": 0,
                     "track_count_agg": 12,
-                    "bpm_sum": 0,
+                    "bpm_sum": 0.0,
                     "bpm_sum_agg": 1491.197
-                },
-                {
-                    "name": "Poetry",
-                    "id": 188,
-                    "parentId": 20,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
-                    "name": "Spoken Word",
-                    "id": 378,
-                    "parentId": 20,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Radio Theater",
@@ -270,21 +180,11 @@
                     "track_count_agg": 1,
                     "bpm_sum": 186.693,
                     "bpm_sum_agg": 186.693
-                },
-                {
-                    "name": "Banter",
-                    "id": 374,
-                    "parentId": 20,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 }
             ],
             "track_count": 0,
             "track_count_agg": 16,
-            "bpm_sum": 0,
+            "bpm_sum": 0.0,
             "bpm_sum_agg": 1925.812
         },
         {
@@ -344,7 +244,7 @@
                 },
                 {
                     "name": "Folk",
-                    "id": 17000,
+                    "id": 1700,
                     "parentId": 17,
                     "children": [],
                     "track_count": 1368,
@@ -353,9 +253,9 @@
                     "bpm_sum_agg": 158870.387
                 }
             ],
-            "track_count": 0,
+            "track_count": 1368,
             "track_count_agg": 1701,
-            "bpm_sum": 0,
+            "bpm_sum": 158870.387,
             "bpm_sum_agg": 197450.117
         },
         {
@@ -367,31 +267,10 @@
                     "name": "Funk",
                     "id": 19,
                     "parentId": 14,
-                    "children": [
-                        {
-                            "name": "Deep Funk",
-                            "id": 377,
-                            "parentId": 19,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "Funk",
-                            "id": 19000,
-                            "parentId": 19,
-                            "children": [],
-                            "track_count": 113,
-                            "track_count_agg": 113,
-                            "bpm_sum": 13454.630999999998,
-                            "bpm_sum_agg": 13454.630999999998
-                        }
-                    ],
-                    "track_count": 0,
+                    "children": [],
+                    "track_count": 113,
                     "track_count_agg": 113,
-                    "bpm_sum": 0,
+                    "bpm_sum": 13454.630999999998,
                     "bpm_sum_agg": 13454.630999999998
                 },
                 {
@@ -406,7 +285,7 @@
                 },
                 {
                     "name": "Soul-RnB",
-                    "id": 14000,
+                    "id": 1400,
                     "parentId": 14,
                     "children": [],
                     "track_count": 43,
@@ -415,9 +294,9 @@
                     "bpm_sum_agg": 4931.098
                 }
             ],
-            "track_count": 0,
+            "track_count": 43,
             "track_count_agg": 192,
-            "bpm_sum": 0,
+            "bpm_sum": 4931.098,
             "bpm_sum_agg": 23027.240999999995
         },
         {
@@ -457,7 +336,7 @@
                 },
                 {
                     "name": "Easy Listening",
-                    "id": 13000,
+                    "id": 1300,
                     "parentId": 13,
                     "children": [],
                     "track_count": 7,
@@ -466,9 +345,9 @@
                     "bpm_sum_agg": 867.14
                 }
             ],
-            "track_count": 0,
+            "track_count": 7,
             "track_count_agg": 77,
-            "bpm_sum": 0,
+            "bpm_sum": 867.14,
             "bpm_sum_agg": 8924.592999999999
         },
         {
@@ -493,7 +372,7 @@
                         },
                         {
                             "name": "Post-Rock",
-                            "id": 26000,
+                            "id": 2600,
                             "parentId": 26,
                             "children": [],
                             "track_count": 161,
@@ -502,9 +381,9 @@
                             "bpm_sum_agg": 19104.463000000003
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 161,
                     "track_count_agg": 248,
-                    "bpm_sum": 0,
+                    "bpm_sum": 19104.463000000003,
                     "bpm_sum_agg": 30015.703
                 },
                 {
@@ -559,7 +438,7 @@
                                 },
                                 {
                                     "name": "Hardcore",
-                                    "id": 109000,
+                                    "id": 10900,
                                     "parentId": 109,
                                     "children": [],
                                     "track_count": 207,
@@ -568,9 +447,9 @@
                                     "bpm_sum_agg": 28072.796000000002
                                 }
                             ],
-                            "track_count": 0,
+                            "track_count": 207,
                             "track_count_agg": 223,
-                            "bpm_sum": 0,
+                            "bpm_sum": 28072.796000000002,
                             "bpm_sum_agg": 30103.149
                         },
                         {
@@ -585,7 +464,7 @@
                         },
                         {
                             "name": "Punk",
-                            "id": 25000,
+                            "id": 2500,
                             "parentId": 25,
                             "children": [],
                             "track_count": 1110,
@@ -594,9 +473,9 @@
                             "bpm_sum_agg": 147599.756
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 1110,
                     "track_count_agg": 2074,
-                    "bpm_sum": 0,
+                    "bpm_sum": 147599.756,
                     "bpm_sum_agg": 273652.15
                 },
                 {
@@ -650,16 +529,6 @@
                     "bpm_sum_agg": 5269.686000000001
                 },
                 {
-                    "name": "Lo-Fi",
-                    "id": 27,
-                    "parentId": 12,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Industrial",
                     "id": 70,
                     "parentId": 12,
@@ -705,18 +574,8 @@
                             "bpm_sum_agg": 1536.026
                         },
                         {
-                            "name": "Grindcore",
-                            "id": 439,
-                            "parentId": 31,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
                             "name": "Metal",
-                            "id": 31000,
+                            "id": 3100,
                             "parentId": 31,
                             "children": [],
                             "track_count": 251,
@@ -725,9 +584,9 @@
                             "bpm_sum_agg": 31496.292
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 251,
                     "track_count_agg": 264,
-                    "bpm_sum": 0,
+                    "bpm_sum": 31496.292,
                     "bpm_sum_agg": 33297.19
                 },
                 {
@@ -758,7 +617,7 @@
                     ],
                     "track_count": 0,
                     "track_count_agg": 15,
-                    "bpm_sum": 0,
+                    "bpm_sum": 0.0,
                     "bpm_sum_agg": 1992.9530000000002
                 },
                 {
@@ -784,12 +643,12 @@
                             ],
                             "track_count": 0,
                             "track_count_agg": 43,
-                            "bpm_sum": 0,
+                            "bpm_sum": 0.0,
                             "bpm_sum_agg": 5179.449999999999
                         },
                         {
                             "name": "Loud-Rock",
-                            "id": 45000,
+                            "id": 4500,
                             "parentId": 45,
                             "children": [],
                             "track_count": 82,
@@ -798,9 +657,9 @@
                             "bpm_sum_agg": 10142.76
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 82,
                     "track_count_agg": 125,
-                    "bpm_sum": 0,
+                    "bpm_sum": 10142.76,
                     "bpm_sum_agg": 15322.21
                 },
                 {
@@ -815,7 +674,7 @@
                 },
                 {
                     "name": "Rock",
-                    "id": 12000,
+                    "id": 1200,
                     "parentId": 12,
                     "children": [],
                     "track_count": 2526,
@@ -824,9 +683,9 @@
                     "bpm_sum_agg": 321743.14999999997
                 }
             ],
-            "track_count": 0,
+            "track_count": 2526,
             "track_count_agg": 7519,
-            "bpm_sum": 0,
+            "bpm_sum": 321743.14999999997,
             "bpm_sum_agg": 962912.3189999999
         },
         {
@@ -845,18 +704,8 @@
                     "bpm_sum_agg": 27633.967
                 },
                 {
-                    "name": "Experimental Pop",
-                    "id": 76,
-                    "parentId": 10,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Pop",
-                    "id": 10000,
+                    "id": 1000,
                     "parentId": 10,
                     "children": [],
                     "track_count": 1453,
@@ -865,9 +714,9 @@
                     "bpm_sum_agg": 180377.00699999998
                 }
             ],
-            "track_count": 0,
+            "track_count": 1453,
             "track_count_agg": 1676,
-            "bpm_sum": 0,
+            "bpm_sum": 180377.00699999998,
             "bpm_sum_agg": 208010.974
         },
         {
@@ -875,16 +724,6 @@
             "id": 15,
             "parentId": 0,
             "children": [
-                {
-                    "name": "Ambient Electronic",
-                    "id": 42,
-                    "parentId": 15,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
                 {
                     "name": "Dance",
                     "id": 296,
@@ -946,16 +785,6 @@
                     "bpm_sum_agg": 4146.571
                 },
                 {
-                    "name": "Glitch",
-                    "id": 183,
-                    "parentId": 15,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "House",
                     "id": 182,
                     "parentId": 15,
@@ -972,7 +801,7 @@
                         },
                         {
                             "name": "House",
-                            "id": 182000,
+                            "id": 18200,
                             "parentId": 182,
                             "children": [],
                             "track_count": 67,
@@ -981,9 +810,9 @@
                             "bpm_sum_agg": 8214.132
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 67,
                     "track_count_agg": 107,
-                    "bpm_sum": 0,
+                    "bpm_sum": 8214.132,
                     "bpm_sum_agg": 12861.119999999999
                 },
                 {
@@ -1003,7 +832,7 @@
                         },
                         {
                             "name": "Chip Music",
-                            "id": 297000,
+                            "id": 29700,
                             "parentId": 297,
                             "children": [],
                             "track_count": 439,
@@ -1012,9 +841,9 @@
                             "bpm_sum_agg": 56127.952
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 439,
                     "track_count_agg": 832,
-                    "bpm_sum": 0,
+                    "bpm_sum": 56127.952,
                     "bpm_sum_agg": 106216.93
                 },
                 {
@@ -1034,7 +863,7 @@
                         },
                         {
                             "name": "Techno",
-                            "id": 181000,
+                            "id": 18100,
                             "parentId": 181,
                             "children": [],
                             "track_count": 230,
@@ -1043,9 +872,9 @@
                             "bpm_sum_agg": 27793.558
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 230,
                     "track_count_agg": 265,
-                    "bpm_sum": 0,
+                    "bpm_sum": 27793.558,
                     "bpm_sum_agg": 31925.997000000003
                 },
                 {
@@ -1065,7 +894,7 @@
                         },
                         {
                             "name": "Dubstep",
-                            "id": 468000,
+                            "id": 46800,
                             "parentId": 468,
                             "children": [],
                             "track_count": 291,
@@ -1074,20 +903,10 @@
                             "bpm_sum_agg": 35847.448000000004
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 291,
                     "track_count_agg": 307,
-                    "bpm_sum": 0,
+                    "bpm_sum": 35847.448000000004,
                     "bpm_sum_agg": 37868.359000000004
-                },
-                {
-                    "name": "Jungle",
-                    "id": 695,
-                    "parentId": 15,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Downtempo",
@@ -1101,7 +920,7 @@
                 },
                 {
                     "name": "Electronic",
-                    "id": 15000,
+                    "id": 1500,
                     "parentId": 15,
                     "children": [],
                     "track_count": 3351,
@@ -1110,9 +929,9 @@
                     "bpm_sum_agg": 416478.868
                 }
             ],
-            "track_count": 0,
+            "track_count": 3351,
             "track_count_agg": 5810,
-            "bpm_sum": 0,
+            "bpm_sum": 416478.868,
             "bpm_sum_agg": 722920.944
         },
         {
@@ -1136,26 +955,6 @@
                     "parentId": 2,
                     "children": [
                         {
-                            "name": "Tango",
-                            "id": 1060,
-                            "parentId": 46,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "Salsa",
-                            "id": 808,
-                            "parentId": 46,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
                             "name": "Cumbia",
                             "id": 502,
                             "parentId": 46,
@@ -1167,7 +966,7 @@
                         },
                         {
                             "name": "Latin America",
-                            "id": 46000,
+                            "id": 4600,
                             "parentId": 46,
                             "children": [],
                             "track_count": 43,
@@ -1176,20 +975,10 @@
                             "bpm_sum_agg": 5494.693
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 43,
                     "track_count_agg": 50,
-                    "bpm_sum": 0,
+                    "bpm_sum": 5494.693,
                     "bpm_sum_agg": 6351.9130000000005
-                },
-                {
-                    "name": "Pacific",
-                    "id": 176,
-                    "parentId": 2,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Latin",
@@ -1237,16 +1026,6 @@
                             "bpm_sum_agg": 1606.976
                         },
                         {
-                            "name": "Fado",
-                            "id": 1156,
-                            "parentId": 130,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
                             "name": "Spanish",
                             "id": 619,
                             "parentId": 130,
@@ -1258,7 +1037,7 @@
                         },
                         {
                             "name": "Europe",
-                            "id": 130000,
+                            "id": 13000,
                             "parentId": 130,
                             "children": [],
                             "track_count": 88,
@@ -1267,9 +1046,9 @@
                             "bpm_sum_agg": 10748.683
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 88,
                     "track_count_agg": 149,
-                    "bpm_sum": 0,
+                    "bpm_sum": 10748.683,
                     "bpm_sum_agg": 18340.256
                 },
                 {
@@ -1316,31 +1095,10 @@
                     "name": "Middle East",
                     "id": 102,
                     "parentId": 2,
-                    "children": [
-                        {
-                            "name": "Turkish",
-                            "id": 1032,
-                            "parentId": 102,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "Middle East",
-                            "id": 102000,
-                            "parentId": 102,
-                            "children": [],
-                            "track_count": 41,
-                            "track_count_agg": 41,
-                            "bpm_sum": 4954.420999999999,
-                            "bpm_sum_agg": 4954.420999999999
-                        }
-                    ],
-                    "track_count": 0,
+                    "children": [],
+                    "track_count": 41,
                     "track_count_agg": 41,
-                    "bpm_sum": 0,
+                    "bpm_sum": 4954.420999999999,
                     "bpm_sum_agg": 4954.420999999999
                 },
                 {
@@ -1359,18 +1117,8 @@
                             "bpm_sum_agg": 1511.254
                         },
                         {
-                            "name": "North African",
-                            "id": 214,
-                            "parentId": 92,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
                             "name": "African",
-                            "id": 92000,
+                            "id": 9200,
                             "parentId": 92,
                             "children": [],
                             "track_count": 33,
@@ -1379,60 +1127,19 @@
                             "bpm_sum_agg": 4150.421
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 33,
                     "track_count_agg": 44,
-                    "bpm_sum": 0,
+                    "bpm_sum": 4150.421,
                     "bpm_sum_agg": 5661.675
                 },
                 {
                     "name": "Indian",
                     "id": 86,
                     "parentId": 2,
-                    "children": [
-                        {
-                            "name": "N. Indian Traditional",
-                            "id": 173,
-                            "parentId": 86,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "Bollywood",
-                            "id": 175,
-                            "parentId": 86,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "South Indian Traditional",
-                            "id": 174,
-                            "parentId": 86,
-                            "children": [],
-                            "track_count": 0,
-                            "track_count_agg": 0,
-                            "bpm_sum": 0.0,
-                            "bpm_sum_agg": 0.0
-                        },
-                        {
-                            "name": "Indian",
-                            "id": 86000,
-                            "parentId": 86,
-                            "children": [],
-                            "track_count": 7,
-                            "track_count_agg": 7,
-                            "bpm_sum": 899.5239999999999,
-                            "bpm_sum_agg": 899.5239999999999
-                        }
-                    ],
-                    "track_count": 0,
+                    "children": [],
+                    "track_count": 7,
                     "track_count_agg": 7,
-                    "bpm_sum": 0,
+                    "bpm_sum": 899.5239999999999,
                     "bpm_sum_agg": 899.5239999999999
                 },
                 {
@@ -1452,7 +1159,7 @@
                         },
                         {
                             "name": "Reggae - Dub",
-                            "id": 79000,
+                            "id": 7900,
                             "parentId": 79,
                             "children": [],
                             "track_count": 121,
@@ -1461,9 +1168,9 @@
                             "bpm_sum_agg": 16259.751999999999
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 121,
                     "track_count_agg": 129,
-                    "bpm_sum": 0,
+                    "bpm_sum": 16259.751999999999,
                     "bpm_sum_agg": 17158.676
                 },
                 {
@@ -1488,7 +1195,7 @@
                 },
                 {
                     "name": "International",
-                    "id": 2000,
+                    "id": 200,
                     "parentId": 2,
                     "children": [],
                     "track_count": 398,
@@ -1497,9 +1204,9 @@
                     "bpm_sum_agg": 49585.19
                 }
             ],
-            "track_count": 0,
+            "track_count": 398,
             "track_count_agg": 1106,
-            "bpm_sum": 0,
+            "bpm_sum": 49585.19,
             "bpm_sum_agg": 139167.213
         },
         {
@@ -1534,7 +1241,7 @@
                         },
                         {
                             "name": "Country & Western",
-                            "id": 651000,
+                            "id": 65100,
                             "parentId": 651,
                             "children": [],
                             "track_count": 1,
@@ -1543,9 +1250,9 @@
                             "bpm_sum_agg": 79.02
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 1,
                     "track_count_agg": 2,
-                    "bpm_sum": 0,
+                    "bpm_sum": 79.02,
                     "bpm_sum_agg": 239.515
                 },
                 {
@@ -1570,7 +1277,7 @@
                 },
                 {
                     "name": "Country",
-                    "id": 9000,
+                    "id": 900,
                     "parentId": 9,
                     "children": [],
                     "track_count": 7,
@@ -1579,9 +1286,9 @@
                     "bpm_sum_agg": 805.2270000000001
                 }
             ],
-            "track_count": 0,
+            "track_count": 7,
             "track_count_agg": 208,
-            "bpm_sum": 0,
+            "bpm_sum": 805.2270000000001,
             "bpm_sum_agg": 26502.947999999997
         },
         {
@@ -1608,16 +1315,6 @@
                     "track_count_agg": 3,
                     "bpm_sum": 362.65999999999997,
                     "bpm_sum_agg": 362.65999999999997
-                },
-                {
-                    "name": "Be-Bop",
-                    "id": 178,
-                    "parentId": 4,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Big Band/Swing",
@@ -1651,7 +1348,7 @@
                 },
                 {
                     "name": "Jazz",
-                    "id": 4000,
+                    "id": 400,
                     "parentId": 4,
                     "children": [],
                     "track_count": 583,
@@ -1660,9 +1357,9 @@
                     "bpm_sum_agg": 68318.943
                 }
             ],
-            "track_count": 0,
+            "track_count": 583,
             "track_count_agg": 764,
-            "bpm_sum": 0,
+            "bpm_sum": 68318.943,
             "bpm_sum_agg": 89802.758
         },
         {
@@ -1682,7 +1379,7 @@
                 },
                 {
                     "name": "Blues",
-                    "id": 3000,
+                    "id": 300,
                     "parentId": 3,
                     "children": [],
                     "track_count": 206,
@@ -1691,9 +1388,9 @@
                     "bpm_sum_agg": 23976.038999999997
                 }
             ],
-            "track_count": 0,
+            "track_count": 206,
             "track_count_agg": 213,
-            "bpm_sum": 0,
+            "bpm_sum": 23976.038999999997,
             "bpm_sum_agg": 24839.554999999997
         },
         {
@@ -1720,16 +1417,6 @@
                     "track_count_agg": 86,
                     "bpm_sum": 8790.932999999999,
                     "bpm_sum_agg": 8790.932999999999
-                },
-                {
-                    "name": "Symphony",
-                    "id": 444,
-                    "parentId": 5,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Chamber Music",
@@ -1773,7 +1460,7 @@
                 },
                 {
                     "name": "Classical",
-                    "id": 5000,
+                    "id": 500,
                     "parentId": 5,
                     "children": [],
                     "track_count": 405,
@@ -1782,9 +1469,9 @@
                     "bpm_sum_agg": 42630.893
                 }
             ],
-            "track_count": 0,
+            "track_count": 405,
             "track_count_agg": 609,
-            "bpm_sum": 0,
+            "bpm_sum": 42630.893,
             "bpm_sum_agg": 64113.984
         },
         {
@@ -1811,36 +1498,6 @@
                     "track_count_agg": 110,
                     "bpm_sum": 13118.685,
                     "bpm_sum_agg": 13118.685
-                },
-                {
-                    "name": "Audio Collage",
-                    "id": 22,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
-                    "name": "Unclassifiable",
-                    "id": 125,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
-                    "name": "Field Recordings",
-                    "id": 30,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Sound Art",
@@ -1876,42 +1533,21 @@
                                     "name": "Holiday",
                                     "id": 763,
                                     "parentId": 16,
-                                    "children": [
-                                        {
-                                            "name": "Christmas",
-                                            "id": 1193,
-                                            "parentId": 763,
-                                            "children": [],
-                                            "track_count": 0,
-                                            "track_count_agg": 0,
-                                            "bpm_sum": 0.0,
-                                            "bpm_sum_agg": 0.0
-                                        },
-                                        {
-                                            "name": "Holiday",
-                                            "id": 763000,
-                                            "parentId": 763,
-                                            "children": [],
-                                            "track_count": 38,
-                                            "track_count_agg": 38,
-                                            "bpm_sum": 3944.6990000000005,
-                                            "bpm_sum_agg": 3944.6990000000005
-                                        }
-                                    ],
-                                    "track_count": 0,
+                                    "children": [],
+                                    "track_count": 38,
                                     "track_count_agg": 38,
-                                    "bpm_sum": 0,
+                                    "bpm_sum": 3944.6990000000005,
                                     "bpm_sum_agg": 3944.6990000000005
                                 }
                             ],
                             "track_count": 0,
                             "track_count_agg": 38,
-                            "bpm_sum": 0,
+                            "bpm_sum": 0.0,
                             "bpm_sum_agg": 3944.6990000000005
                         },
                         {
                             "name": "Novelty",
-                            "id": 6000,
+                            "id": 600,
                             "parentId": 6,
                             "children": [],
                             "track_count": 2,
@@ -1920,9 +1556,9 @@
                             "bpm_sum_agg": 300.572
                         }
                     ],
-                    "track_count": 0,
+                    "track_count": 2,
                     "track_count_agg": 87,
-                    "bpm_sum": 0,
+                    "bpm_sum": 300.572,
                     "bpm_sum_agg": 10352.592999999999
                 },
                 {
@@ -1946,16 +1582,6 @@
                     "bpm_sum_agg": 4248.463000000001
                 },
                 {
-                    "name": "Avant-Garde",
-                    "id": 1,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
                     "name": "Musique Concrete",
                     "id": 247,
                     "parentId": 38,
@@ -1964,26 +1590,6 @@
                     "track_count_agg": 62,
                     "bpm_sum": 7595.092999999999,
                     "bpm_sum_agg": 7595.092999999999
-                },
-                {
-                    "name": "Sound Collage",
-                    "id": 224,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
-                },
-                {
-                    "name": "Noise",
-                    "id": 32,
-                    "parentId": 38,
-                    "children": [],
-                    "track_count": 0,
-                    "track_count_agg": 0,
-                    "bpm_sum": 0.0,
-                    "bpm_sum_agg": 0.0
                 },
                 {
                     "name": "Sound Poetry",
@@ -1998,7 +1604,7 @@
             ],
             "track_count": 0,
             "track_count_agg": 485,
-            "bpm_sum": 0,
+            "bpm_sum": 0.0,
             "bpm_sum_agg": 55800.78100000001
         }
     ],
