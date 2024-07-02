@@ -7,7 +7,8 @@ Explore the tempo of different genres. See how they look in comparison. Here are
 ## Drill-down into the data
 Click on a genre from thi inner circle to zoom in. click into the centre to zoom out.
 
-![vzooming_in_and_out](drill-down.gif | width=200)
+![zooming_in_and_out](drill-down.gif | width=200)
+<img src="drill-down.gif" width="250">
 
 ## About
 All you need to explore the data yourself is to download the `songs.html` file and open it in your browser.
