@@ -10,6 +10,8 @@ Click on a genre from thi inner circle to zoom in. click into the centre to zoom
 ![vzooming_in_and_out](drill-down.gif)
 
 ## About
+All you need to explore the data yourself is to download the `songs.html` file and open it in your browser.
+
 The visualization is done using [d3.js](https://d3js.org/). It was done by using [this template](https://observablehq.com/@d3/zoomable-sunburst) as a beseline.
 
 
