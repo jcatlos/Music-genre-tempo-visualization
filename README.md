@@ -1,14 +1,12 @@
 # Music tempo vizualization
 Explore the tempo of different genres. See how they look in comparison. Here are all music genres from the [FMA dataset](https://github.com/mdeff/fma/tree/master).
 
-![vizualization_loop](viz-loop.gif | width=200)
-
+<img src="viz-loop.gif" width="600" alt="vizualization_loop">
 
 ## Drill-down into the data
 Click on a genre from thi inner circle to zoom in. click into the centre to zoom out.
 
-![zooming_in_and_out](drill-down.gif | width=200)
-<img src="drill-down.gif" width="250">
+<img src="drill-down.gif" width="600" alt="zooming_in_and_out">
 
 ## About
 All you need to explore the data yourself is to download the `songs.html` file and open it in your browser.
